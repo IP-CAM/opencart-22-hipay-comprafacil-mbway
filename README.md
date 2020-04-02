@@ -1,2 +1,2 @@
-# opencart-22-hipay-comprafacil-mbway
+# MB WAT for Opencart 2.2 - Professional
 MB WAY for Opencart 2.2
